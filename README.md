@@ -1,7 +1,6 @@
 # 🎓 Teacher–Student System
 
-A full-stack web application built with Laravel and Tailwind CSS that facilitates a role-based interaction between teachers and students. This project was developed as part of the Web Engineering course at Eötvös Loránd University (ELTE).
-
+A full-stack web application built with Laravel and Tailwind CSS that facilitates a role-based interaction between teachers and students. 
 ## 🚀 Features
 
 - Role-based authentication for **teachers** and **students**
